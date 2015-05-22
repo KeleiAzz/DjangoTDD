@@ -4,6 +4,7 @@ cssselect==0.9.1
 Django==1.7.6
 gnureadline==6.3.3
 GoogleScraper==0.1.37
+gunicorn==19.3.0
 ipython==3.0.0
 jdcal==1.0
 lxml==3.4.2
