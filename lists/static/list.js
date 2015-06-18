@@ -1,5 +1,5 @@
 jQuery(document).ready(function () {
-    $('input').on('click', function() {
+    $('input').on('keypress', function() {
         $('.has-error').hide();
     });
 });
